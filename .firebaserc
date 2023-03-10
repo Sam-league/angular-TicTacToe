@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tictactoe-92f86"
+  },
+  "targets": {
+    "tictactoe-92f86": {
+      "hosting": {
+        "tic-tac-toe": [
+          "tictactoe-92f86"
+        ]
+      }
+    }
+  }
+}
